@@ -1,0 +1,21 @@
+.heading {
+    margin:0px;
+    line-height:65px;
+    width:100%;
+    }
+    body {
+        background-size: cover;
+    }
+    #objectToFind {
+        width:500px;
+        border-radius:10px;
+    }
+
+    #start {
+        border-radius: 100px;
+    }
+
+    canvas {
+        margin-top: 200px;
+        margin-left:400px
+    }
